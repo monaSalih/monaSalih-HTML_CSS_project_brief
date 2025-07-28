@@ -173,4 +173,5 @@ Submit your project with the following:
 
 - [https://brittanychiang.com](https://brittanychiang.com)
 - [https://manuarora.in](https://manuarora.in)
-- [https://saruwakakun.com](https://saruwakakun.com)
+  [comment]: # (https://saruwakakun.com)
+  
