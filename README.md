@@ -159,18 +159,6 @@ Submit your project with the following:
 
 ---
 
-## 🧪 Evaluation Criteria
-
-| Criteria | Weight |
-|---------|--------|
-| Semantic HTML Structure | ⭐⭐⭐⭐ |
-| CSS Layout and Responsiveness | ⭐⭐⭐⭐ |
-| Visual Styling & Branding | ⭐⭐⭐ |
-| Animation & Interactions | ⭐⭐ |
-| Clean Code & File Organization | ⭐⭐⭐ |
-
----
-
 ## 📚 References
 
 - [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
