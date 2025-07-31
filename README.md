@@ -140,15 +140,18 @@ Students must submit the following:
 
 ## 📚 References
 
-- [MDN - HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
-- [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-- [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
-- [Responsive Design Basics](https://web.dev/responsive-web-design-basics/)  
-- [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations)
+- [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Responsive Design Basics](https://web.dev/responsive-web-design-basics/)
+- [Web Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations)
 
 ---
 
-## 🔗 Inspiration Portfolio Sites
+## 🔗 Sample Inspiration Sites
 
-- [https://brittanychiang.com](https://brittanychiang.com)  
-- [https://manuarora.in](https://manuarora.in)  
+- [https://brittanychiang.com](https://brittanychiang.com)
+- [https://manuarora.in](https://manuarora.in)
+  
+  [comment]: # (https://saruwakakun.com)
+  
