@@ -1,36 +1,44 @@
-# 📝 JS Capstone Project: Personalized Productivity Dashboard
+# 🌟 Capstone Project
 
-## 🎯 Project Overview
+# Personal Portfolio Website
 
-The **Personalized Productivity Dashboard** is a dynamic, interactive web application built using **HTML, CSS, and JavaScript**. This project allows students to create a dashboard with features such as a greeting message, to-do list management, daily motivational quotes from an external API, and a light/dark mode toggle that stores user preferences in Web Storage. This will help students integrate and apply the key JavaScript concepts learned throughout the course.
+---
+
+## 📝 Short Brief
+
+Students will design and build a **fully responsive personal portfolio website** using only **HTML and CSS**. The project will serve as a professional digital resume and showcase space for developers. It should feature structured content, responsive layout, stylish design, and thoughtful interactivity through animations and transitions.
+
+This project consolidates all foundational front-end skills learned during the course.
 
 ---
 
 ## 🧰 Tech Competencies Acquired
 
-By completing this project, students will demonstrate proficiency in:
+By completing this project, students will acquire and demonstrate proficiency in:
 
-- Structuring a project using **HTML, CSS, and JavaScript (ES5/ES6)**.
-- Writing **clean, modular, and readable JavaScript** code.
-- Creating **interactive UIs** through **DOM manipulation and event handling**.
-- Using **localStorage/sessionStorage** for persistent settings.
-- Integrating **external APIs** (JSON-based) and rendering their data.
-- Designing **responsive layouts** with Flexbox or Grid.
-- Using **Git and GitHub** for version control and collaboration.
-- Writing basic **documentation** and code walkthroughs.
+- Structuring websites with **semantic HTML**
+- Designing modern responsive layouts using **CSS Flexbox and Grid**
+- Applying **CSS transitions, animations, and hover effects**
+- Using **media queries** for device responsiveness
+- Building **accessible, readable, and maintainable code**
+- Organizing scalable CSS with good naming conventions (e.g., BEM)
+- Version control using **Git and GitHub**
+- Writing and presenting basic **project documentation**
 
 ---
 
 ## 🌍 Project Context
 
-As a **junior developer at a startup**, you are tasked with building a **Personal Productivity Dashboard** MVP that runs in any browser without server-side code. The dashboard will enable users to:
+Imagine you're a **junior front-end developer** or a freelancer preparing to apply for jobs or showcase your web capabilities.
 
-- Add, edit, and delete tasks 📋.
-- View a daily motivational quote (pulled from an API).
-- Switch between light and dark themes 🌑☀️.
-- See a personalized greeting based on the time of day 🙋🏻‍♂️.
+You’ve been asked to design and publish your **personal portfolio website** that:
 
-The project also serves as an opportunity to showcase your dynamic JavaScript skills and proficiency in core front-end technologies.
+- Introduces you professionally 👨🏻‍💻  
+- Displays your skillset and background 🛠️  
+- Showcases your projects 🧰  
+- Allows potential employers or clients to contact you 📬  
+
+This site will act as your live resume, demonstrating your ability to structure, style, and present content effectively using just HTML and CSS.
 
 ---
 
@@ -38,94 +46,111 @@ The project also serves as an opportunity to showcase your dynamic JavaScript sk
 
 ### 1. **HTML Structure**
 
-- Use semantic HTML tags like `header`, `section`, `footer`.
-- Include at least three sections: **Greeting**, **To-Do List**, and **Quote** (beside the Nav bar and footer).
+- Use **semantic HTML elements** (e.g., `header`, `main`, `section`, `footer`)
+- Each section should be cleanly separated and logically ordered
+- Include the following sections:
+  - Hero / Landing
+  - About Me
+  - Projects Gallery
+  - Contact Form
+  - Footer
 
 ### 2. **CSS Styling**
 
-- Use **Flexbox** or **Grid** for layout.
-- Create a **responsive design**.
-- Implement a **dark/light theme toggle**.
+- Use **Flexbox or CSS Grid** for layout
+- Must be **fully responsive** across mobile, tablet, and desktop
+- Use modern styling techniques:
+  - `:hover`, `transition`, `@keyframes`, `box-shadow`, etc.
+  - Clear font hierarchy, spacing, and alignment
+  - Maintain color contrast and accessible design
 
-### 3. **JavaScript Features**
+### 3. **Optional CSS Features**
 
-- Greet the user based on the current time (morning, afternoon, evening).
-- Allow users to **add, edit, and delete tasks** stored in `localStorage`.
-- Fetch a **daily quote** from a public API (such as [Free APIs](https://free-apis.github.io/#/categories/Personality)).
-- Store user preferences (like theme settings) in `localStorage`.
-- Apply **event listeners** to buttons, inputs, and interactions.
-- Organize JavaScript using **functions**, **objects**, or **modules**.
+- Toggle between light and dark themes using CSS variables
+- Smooth scroll or animated section reveal
+- Reusable utility classes for spacing and alignment
 
 ---
 
 ## 🎯 Performance Criteria
 
-The project will be assessed on the following:
+Each submitted project will be evaluated against the following dimensions:
 
-| Criteria                    | Weight | Excellent (🏆) | Very Good (👍🏻) | Satisfactory (🔶) | Needs Improvement (❌) |
-| --------------------------- | ------ | -------------- | --------------- | ----------------- | ---------------------- |
-| ✅ Completeness of Features  | 30%    | All core features implemented | Most features implemented | Half features implemented | Few or missing key features |
-| 💻 Code Quality             | 20%    | Clean, commented, modular | Mostly readable and functional | Half readable and functional | Poorly structured, hard to follow |
-| 🎨 UI Design & Responsiveness | 15%    | Polished, responsive UI | Very good layout and design | Acceptable layout and design | Broken or inconsistent layout |
-| ⚙️ Functional JavaScript Logic | 15%    | Works without bugs | Minor bugs or glitches | Some bugs & glitches | Major logic issues present |
-| 📦 Use of Storage & API     | 10%    | Properly used and integrated | Used with minor issues | Used with major issues | Misused or not implemented |
-| 📁 Git & Project Structure  | 5%     | Well-structured & documented | Git used, minor gaps | Git used, major gaps and code conflict | Git not used properly |
-| 📝 Documentation            | 5%     | Clear README + setup guide | Good README with minor issues | Partial or unclear README | Missing or inadequate README |
+| Criteria                       | Weight | Excellent (🏆) 4 (100%) | Very Good (👍🏻) 3 (85%) | Satisfactory (🔶) 2 (70%) | Needs Improvement (❌) 1 (50%) |
+|-------------------------------|--------|-------------------------|--------------------------|---------------------------|-------------------------------|
+| ✅ Completeness of Sections    | 30%    | All required sections implemented | Most sections implemented | Some sections missing | Several core sections missing |
+| 🎨 UI Design & Responsiveness | 20%    | Polished, responsive, elegant | Clean and functional | Acceptable layout | Layout is broken or not responsive |
+| 💻 Code Quality               | 20%    | Semantic, clean, well-commented | Mostly well-structured | Some readability issues | Poorly structured, unclear |
+| ✨ Animation & Interaction    | 10%    | Elegant transitions, hover states, or animations | Minimal interaction | Inconsistent or underdeveloped | Not implemented |
+| 📁 Project Organization       | 10%    | Clear folders/files + BEM or modular naming | Mostly organized | Some confusion in structure | Chaotic or unstructured |
+| 📦 Git & GitHub               | 5%     | GitHub repo with meaningful commits | GitHub used, minor issues | Few commits or unclear history | Git not used properly |
+| 📝 Documentation              | 5%     | Clear README with setup + walkthrough | Partial README | Minimal README | Missing or vague README |
+
+---
+
+## 📊 Assessment Methods
+
+The project will be assessed by the course trainer using the following method:
+
+1. **Initial Review**  
+   Open the GitHub repository and view the live version or local files.
+
+2. **Feature Checklist**  
+   Verify presence of required sections, responsiveness, and interactions.
+
+3. **Code Review**  
+   - File and folder structure  
+   - Use of semantic HTML  
+   - CSS maintainability, consistency, and modularity  
+
+4. **Live Demo (Optional)**  
+   Students may present their site and discuss design decisions.
+
+5. **Scoring Sheet**  
+   Based on the performance criteria above, each student will receive structured feedback and pass/fail status.
 
 ---
 
 ## 📦 Deliverables
 
-Students should submit the following:
+Students must submit the following:
 
-- ✅ **GitHub repository link** containing:
-    - All source code (HTML, CSS, JavaScript)
-    - Landing page with:
-        - Navigation Bar
-        - Greeting Section
-        - To-Do List Section
-        - Motivational Quote Section (from API)
-        - Footer
-    - `README.md` file that includes:
-        - Project overview
-        - Features list
-        - How to run the project
-        - Optional: Screenshots or video demo
-- ✅ **Documentation folder** (optional):
-    - Wireframes or sketches (if available)
-    - Developer notes
+- ✅ A **GitHub repository link** containing:
+  - `index.html` and `style.css`
+  - Optional `/images` and `/projects` folders
+  - A functional and responsive portfolio website
+- ✅ A `README.md` file including:
+  - Project overview
+  - Feature list
+  - How to view or run the project
+  - Optional: Screenshots or design notes
+- ✅ (Optional) `documentation/` folder:
+  - Wireframes or sketches
+  - Additional developer notes
 
 ---
 
 ## 🚀 Optional Improvements (Bonus)
 
-- Add user name personalization (e.g., "Welcome back, [Name]").
-- Store tasks in categories or with deadlines.
-- Integrate a **weather API**.
-- Add animations or transitions using **CSS** or **JavaScript**.
+- Add **dark/light mode** with CSS variables  
+- Animate sections with `@keyframes` or `scroll-behavior: smooth`  
+- Add a **favicon**, meta tags, and SEO-friendly `<head>` tags  
+- Use a **form submission service** like Formspree for the contact form  
+- Implement a **project filter** (using pure CSS :checked tricks)
 
 ---
 
-# 🌟 Final Capstone Project: Personal Portfolio Website
+## 📚 References
 
-## 🎯 Project Purpose
-
-To create a **fully responsive personal portfolio** using **HTML and CSS**. This project consolidates your skills and prepares you for building real-world web interfaces or applying for jobs.
-
----
-
-## 🧠 Learning Outcomes
-
-By completing this project, you will:
-
-- Apply **semantic HTML** for content structuring.
-- Use **Flexbox** and **Grid** to create complex layouts.
-- Implement typography, color schemes, and spacing with CSS best practices.
-- Create smooth **animations** and hover effects.
-- Use **media queries** for mobile-first responsiveness.
-- Organize and maintain **scalable CSS**.
+- [MDN - HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
+- [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+- [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
+- [Responsive Design Basics](https://web.dev/responsive-web-design-basics/)  
+- [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations)
 
 ---
 
-## 🧱 Project Structure
+## 🔗 Inspiration Portfolio Sites
 
+- [https://brittanychiang.com](https://brittanychiang.com)  
+- [https://manuarora.in](https://manuarora.in)  
