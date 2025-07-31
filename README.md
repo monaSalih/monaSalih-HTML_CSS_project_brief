@@ -1,6 +1,4 @@
-# 🌟 Capstone Project
-
-# Personal Portfolio Website
+# 🌟 Personal Portfolio Website
 
 ---
 
